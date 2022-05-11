@@ -1,6 +1,5 @@
 # doc-template
-2011-2012  
-School project - C++ desktop program to create document templates.  
+2011-2012. School project. C++ desktop program for document templating.  
 Features:
 1. Loading existing .rtf file to work with it in a view
 2. Saving names and text positions of fields selected by user
