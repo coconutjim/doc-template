@@ -6,6 +6,8 @@
 3. Creating new instance from template
 4. Filling fields in a table view
 5. Saving/printing templates and instances
+## Technologies
+C++, VCL
 ## Screenshots
 1. Loading document, selecting and saving fields with their positions
 ![doc-template-1](https://user-images.githubusercontent.com/6568251/167865773-72d69610-cf39-4e5e-979c-9e1a62cda6d3.png)
