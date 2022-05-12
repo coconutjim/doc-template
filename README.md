@@ -6,7 +6,7 @@
 3. Creating new instance from template
 4. Filling fields in a table view
 5. Saving/printing templates and instances
-## Technologies
+## Technology
 C++, VCL
 ## Screenshots
 1. Loading document, selecting and saving fields with their positions
