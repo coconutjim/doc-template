@@ -1,5 +1,5 @@
 # doc-template
-2011-2012. School project. C++ desktop program for making document templates.
+2012\. School project. C++ desktop program for making document templates.
 ## Features
 1. Loading and opening documents in a view
 2. Selecting and saving ***semantic points*** - named fileds that define the template
